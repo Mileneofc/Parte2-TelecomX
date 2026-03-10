@@ -1,27 +1,31 @@
-📝 Sobre o Projeto
+## 📝 Sobre o Projeto
+
 A perda de clientes (Churn) é um dos maiores desafios do setor de telecomunicações. Este projeto analisa dados demográficos, serviços contratados e informações financeiras para prever o comportamento de saída e sugerir ações preventivas.
 
-🚀 Tecnologias Utilizadas
-Python 3.x
+## 🚀 Tecnologias Utilizadas
 
-Pandas & NumPy: Manipulação e limpeza de dados.
+- Python 3.x
 
-Matplotlib & Seaborn: Visualização de dados e gráficos de importância.
+- Pandas & NumPy: Manipulação e limpeza de dados.
 
-Scikit-Learn: Criação, treino e avaliação do modelo de Machine Learning (Random Forest).
+- Matplotlib & Seaborn: Visualização de dados e gráficos de importância.
 
-Google Colab: Ambiente de desenvolvimento.
+- Scikit-Learn: Criação, treino e avaliação do modelo de Machine Learning (Random Forest).
 
-🔍 Principais Insights
+- Google Colab: Ambiente de desenvolvimento.
+
+## 🔍 Principais Insights
+
 A análise de importância de variáveis revelou que os fatores mais críticos para o Churn são:
 
-Tenure (Tempo de Casa): Clientes novos têm uma propensão muito maior ao cancelamento.
+- Tenure (Tempo de Casa): Clientes novos têm uma propensão muito maior ao cancelamento.
 
-Tipo de Contrato: Planos mensais possuem as taxas de evasão mais elevadas devido à baixa barreira de saída.
+- Tipo de Contrato: Planos mensais possuem as taxas de evasão mais elevadas devido à baixa barreira de saída.
 
-Serviços Adicionais: A ausência de Suporte Técnico e Segurança Online está diretamente ligada a um maior risco de Churn.
+- Serviços Adicionais: A ausência de Suporte Técnico e Segurança Online está diretamente ligada a um maior risco de Churn.
 
-🛠️ Como Executar o Projeto
+## 🛠️ Como Executar o Projeto
+
 Faça o upload do dataset (arquivo CSV/XLSX) para o ambiente do Google Colab.
 
 Execute as células de Extração e Limpeza de Dados.
@@ -30,7 +34,8 @@ Treine o modelo de classificação na seção de Machine Learning.
 
 Visualize os resultados na seção de Importância de Variáveis.
 
-📈 Conclusões e Próximos Passos
+## 📈 Conclusões e Próximos Passos
+
 Com base nos resultados, as recomendações para a TelecomX incluem:
 
 Campanhas de Retenção: Focar nos clientes nos primeiros 6 meses de contrato.
